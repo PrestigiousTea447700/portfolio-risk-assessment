@@ -1,12 +1,12 @@
 # portfolio-risk-assessment
 Monte Carlo Portfolio Risk Analysis 
-Here's a professional README template for your Portfolio Risk Assessment project:
+
 
 ***
 
 # Portfolio Risk Assessment with Monte Carlo Simulation
 
-**Author:** [Your Name]  
+**Author:** Muhsin KP
 **Date:** November 2025
 
 ***
