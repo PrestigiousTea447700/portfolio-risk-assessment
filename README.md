@@ -76,4 +76,4 @@ This project is open for educational and research use. Please credit original da
 
 ***
 
-If you want to add additional notes (e.g., installation guide, contact info, or example images), let me know! Just save as `README.md` in your project root.
+
